@@ -54,7 +54,7 @@ Overall, the above mentioned repository could have a range of features designed 
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="https://rebrand.ly/DonationWebsite_MABCORP">rebrand.ly/DonationWebsite_MABCORP</a>
+  <a href="https://charity-organisation-keerthana-velishalas-projects.vercel.app/">rebrand.ly/DonationWebsite_MABCORP</a>
 </p>
 
 
