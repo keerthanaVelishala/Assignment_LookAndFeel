@@ -88,11 +88,6 @@ The website is deployed using the free hosting provided by **Vercel**
   <img src = "https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Vercel-900x0.png" width = "300">
 </p>
 <br><br>
-Later on the link was customized using the well-known URL shortener and customizer **Rebrandly**:<br><br>
-<p align = "center">
-  <img src = "https://www.rebrandly.com/images/URL-Shortener.fileextension.svg" width = "300">
-</p>
-
 
 <br><br>
 <!-- ................................................................................................................................. -->
