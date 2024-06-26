@@ -64,18 +64,6 @@ Overall, the above mentioned repository could have a range of features designed 
 <br><br>
 <!-- ................................................................................................................................. -->
 
-
-
-### Website Interface <br><br>
-![GUI for this Project](/img/demo.png)
-
-
-<br><br>
-<!-- ................................................................................................................................. -->
-
-
-
-
 ### Technology Stack
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
